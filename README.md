@@ -1,7 +1,7 @@
 ### Hi Developers 👋
-[![Linkedin Badge](https://www.linkdin.com/in/neha-abhirup-3481a9195)]
+[![Linkedin Badge]](https://www.linkdin.com/in/neha-abhirup-3481a9195)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://stackoverflow.com/users/17924134/neha-abhirup)
+[![Website Badge]](https://stackoverflow.com/users/17924134/neha-abhirup)
 
 I'm
 Full Stack Solution Architect
