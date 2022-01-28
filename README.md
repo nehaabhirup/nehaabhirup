@@ -5,7 +5,7 @@
 
 I'm
 an intern at edureka
-I have worked as a software trainer for 1.6 years.I have a wide range of skills that include back-end development using (Core java,Advance java) and front-end development(HTML5, CSS3,bootstrap), database(Mysql).
+I have worked as a software trainer for 1.6 years.I have a wide range of skills that include Core java, Advance java and front-end development(HTML5, CSS3), database(Mysql).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/nehaabhirup/count.svg)
