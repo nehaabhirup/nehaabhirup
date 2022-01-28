@@ -1,11 +1,11 @@
 ### Hi Developers 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Abhirup-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkdin.com/in/neha-abhirup-3481a9195)
-[![Website Badge](https://img.shields.io/badge/WebSite-Abhirup-green)](https://www.akash)
+[![Website Badge](https://img.shields.io/badge/WebSite-Abhirup-green)](https://nehaabhirup.github.io/myprofile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Abhirup-yellow)](https://stackoverflow.com/users/17924134/neha-abhirup)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+an intern at edureka
+I have worked as a software trainer for 1.6 years.I have a wide range of skills that include back-end development using (Core java,Advance java) and front-end development(HTML5, CSS3,bootstrap), database(Mysql).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/nehaabhirup/count.svg)
