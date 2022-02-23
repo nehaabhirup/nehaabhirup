@@ -4,8 +4,8 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Abhirup-yellow)](https://stackoverflow.com/users/17924134/neha-abhirup)
 
 I'm
-an intern at edureka
-I have worked as a software trainer for 1.6 years.I have a wide range of skills that include Core java, Advance java and front-end development(HTML5, CSS3), database(Mysql).
+an intern at edureka.
+I have worked as a software trainer for 1.6 years.I have a wide range of skills that include Core java, Advance java and front-end development(HTML5, CSS3,Bootstrap), database(Mysql).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/nehaabhirup/count.svg)
