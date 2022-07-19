@@ -3,9 +3,8 @@
 [![Website Badge](https://img.shields.io/badge/WebSite-Abhirup-green)](https://nehaabhirup.github.io/myprofile/)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Abhirup-yellow)](https://stackoverflow.com/users/17924134/neha-abhirup)
 
-I'm
-an intern at edureka.
-I have worked as a software trainer for 1.6 years.I have a wide range of skills that include Core java, Advance java and front-end development(HTML5, CSS3,Bootstrap), database(Mysql).
+I always had a interest in web development. I was lucky enough to get a chance to join edureka for Full Stack Web Development Internship Program.
+During this internship program, I got to learn a wide range of technologies that includes front-end development(React, HTML5, CSS3,Bootstrap, Javascript), back-end development(Nodejs, Java), database(MongoDB,Mysql).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/nehaabhirup/count.svg)
