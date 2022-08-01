@@ -4,7 +4,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Abhirup-yellow)](https://stackoverflow.com/users/17924134/neha-abhirup)
 
 I always had a interest in web development. I was lucky enough to get a chance to join edureka for Full Stack Web Development Internship Program.
-During this internship program, I got to learn a wide range of technologies that includes front-end development(React, HTML5, CSS3,Bootstrap, Javascript), back-end development(Nodejs, Java), database(MongoDB,Mysql).
+During this internship program, I got to learn a wide range of technologies that includes front-end development(React, HTML5, CSS3,Bootstrap, Javascript), back-end development(Nodejs, Java), database(MongoDB,Mysql). I also worked on Real-Time Applications using front-end and back-end technologies.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/nehaabhirup/count.svg)
